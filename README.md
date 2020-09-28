@@ -1,10 +1,7 @@
 <h2> List of computer scientists</h2>
 
-<div class="hlist horizontal-toc">
-<div id="toc" class="toc">
-<div class="toctitle" dir="ltr" lang="en">
-<h2 id="mw-toc-heading">Contents</h2>
-<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+
+
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#A"><span class="toctext">A</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#B"><span class="toctext">B</span></a></li>
@@ -32,8 +29,7 @@
 <li class="toclevel-1 tocsection-24"><span class="toctext"><a href="#Z">Z</a></span></li>
 </ul>
 <p>&nbsp;</p>
-</div>
-</div>
+
 <h2><span id="A" class="mw-headline">A</span></h2>
 <ul>
 <li><a title="Wil van der Aalst" href="https://en.wikipedia.org/wiki/Wil_van_der_Aalst">Wil van der Aalst</a>&nbsp;&ndash;&nbsp;<a title="Business process management" href="https://en.wikipedia.org/wiki/Business_process_management">business process management</a>,&nbsp;<a title="Process mining" href="https://en.wikipedia.org/wiki/Process_mining">process mining</a>,&nbsp;<a class="mw-redirect" title="Petri nets" href="https://en.wikipedia.org/wiki/Petri_nets">Petri nets</a></li>
